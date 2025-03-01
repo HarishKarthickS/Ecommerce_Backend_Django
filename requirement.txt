@@ -1,0 +1,10 @@
+echo "django
+djangorestframework
+psycopg2-binary
+djangorestframework-simplejwt
+python-decouple
+dj-database-url
+pytest
+pytest-django
+gunicorn
+whitenoise" > requirements.txt
